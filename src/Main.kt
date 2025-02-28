@@ -1,5 +1,5 @@
 fun main() {
-    var mon20 = 0
+  /*  var mon20 = 0
     var mon50 = 0
     var mon100 = 0
     var mon200 = 0
@@ -60,4 +60,7 @@ fun main() {
         }
 
     } while (opcion != 4)
+
+   */
+
 }
